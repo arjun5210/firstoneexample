@@ -1,1 +1,2 @@
 here its a sample of how we can just add the file into existing repository.
+the next one is the example of the second commit the changes happend
